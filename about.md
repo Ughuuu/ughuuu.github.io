@@ -2,11 +2,11 @@
 title: dragos & madalina
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Hey hey. We are two people just like you, but from Romania. Madalina is the artsy girl, and Dragos, the geeky coder.
 comments: false
 ---
 
-Two people from Romania, living in the Netherlands. 
+Two people just like you, but from Romania, and currently living in the Netherlands. Madalina is the artsy girl, and Dragos, the geeky coder.
 
 **may u needs ✨**
 
