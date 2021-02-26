@@ -6,4 +6,6 @@ tags: [blog, github pages, klise, technical]
 description: How this website was made using github pages and the klise theme
 ---
 
-The website was made using [github pages](https://pages.github.com/) and the [klisé](https://github.com/piharpi/klise) minimalistic theme for [jekyll](https://github.com/jekyll/jekyll).
+The website was made using [github pages](https://pages.github.com/) and the [klisé](https://github.com/piharpi/klise) minimalistic theme for [jekyll](https://github.com/jekyll/jekyll). I created it as a mean to share hype around games me and Madalina might make.
+
+I will post updates here regarding anything we are working on and also announce it on twitter.

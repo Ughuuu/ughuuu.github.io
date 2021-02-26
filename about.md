@@ -2,12 +2,11 @@
 title: dragos & madalina
 permalink: /about/
 layout: page
-excerpt: Hey hey. We are two people just like you, but from Romania. Madalina is the artsy girl, and Dragos, the geeky coder.
+excerpt: Two people just like you, but from Romania, who are currently living in the Netherlands.
 comments: false
 ---
 
-Two people just like you, but from Romania, and currently living in the Netherlands. Madalina is the artsy girl, and Dragos, the geeky coder.
+Two people just like you, but from Romania, who are currently living in the Netherlands.
 
-**may u needs ✨**
-
-- {{ site.author.email }}
+Madalina is the shy artsy girl, who likes to draw with watercolors and listen to podcasts.
+Dragos is the weird hyperactive guy, who likes to code games and plays a lot of them.
