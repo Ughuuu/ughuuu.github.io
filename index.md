@@ -2,5 +2,4 @@
 layout: home
 ---
 
-**projects**
-* [chef capybara](https://appsinacup.com/chefcapybara)
+[chef capybara](https://appsinacup.com/chefcapybara)
