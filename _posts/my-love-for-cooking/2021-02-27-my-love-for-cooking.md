@@ -6,6 +6,11 @@ tags: [blog, cooking]
 description: how we started working on our first game together
 ---
 
-Ever since I finished the univeristy, I stopped ordering food and started to cook a lot. My first goal was to cook my first every curry food, even though I had no ideea what that meant. So naturally, I started to perfect the things I already knew how to cook.
-
+After I finished univeristy, I stopped ordering food and started to cook a lot.
+<br />
+I started by cooking different types of egg dishes, then pasta, indian, etc.
+<br />
+My first goal was to cook food as diversified as possible and have it taste really well. I would look for recipes online, and the one best chef I followed was [Gordon Ramsay](https://www.gordonramsay.com/).
+<br />
+So, Madalina was drawing a lot lately, and we always thought we should make a game togheter, and wanted to be something that would be fun and we both liked to do.
 
