@@ -6,3 +6,6 @@ tags: [blog, cooking]
 description: How we started working on our first game together.
 ---
 
+Ever since I finished the univeristy, I stopped ordering food and started to cook a lot. My first goal was to cook my first every curry food, even though I had no ideea what that meant. So naturally, I started to perfect the things I already knew how to cook.
+
+
