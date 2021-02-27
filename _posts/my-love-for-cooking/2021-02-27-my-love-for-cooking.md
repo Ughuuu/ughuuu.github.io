@@ -12,5 +12,6 @@ I started by cooking different types of egg dishes, then pasta, indian, etc.
 <br />
 My first goal was to cook food as diversified as possible and have it taste really well. I would look for recipes online, and the one best chef I followed was [Gordon Ramsay](https://www.gordonramsay.com/).
 <br />
+<br />
 So, Madalina was drawing a lot lately, and we always thought we should make a game togheter, and wanted to be something that would be fun and we both liked to do.
 
