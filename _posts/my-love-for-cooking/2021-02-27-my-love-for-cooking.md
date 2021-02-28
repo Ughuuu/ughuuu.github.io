@@ -9,7 +9,7 @@ description: how we started working on our first game together
 After I finished university, I stopped ordering food and started to cook a lot.
 <br />
 I started by cooking different types of egg dishes, then pasta, indian, etc:
-![Omlette](/assets/my-love-for cooking/photo_omlette.jpg)
+![Omlette](/assets/img/my-love-for cooking/photo_omlette.jpg)
 <br />
 My first goal was to cook food as diversified as possible and have it taste really well. I would look for recipes online, and the one best chef I followed was [Gordon Ramsay](https://www.gordonramsay.com/).
 <br />
