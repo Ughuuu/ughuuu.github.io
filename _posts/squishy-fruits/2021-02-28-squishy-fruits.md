@@ -1,17 +1,13 @@
 ---
-title: my love for cooking 🧑‍🍳
+title: squishy fruits and a small prototype
 date: 2021-02-28 00:00:00 +01:00
 author: dragos
 tags: [blog, cooking, chefcapybara]
-description: how we started working on our first game together
+description: some update on the cooking game. we now have squishy fruits and a small prototype
 ---
 
-After I finished univeristy, I stopped ordering food and started to cook a lot.
+So, as I previously talked, I like to cook. A lot. So this is what our next game will be about, it's decided!
 <br />
-I started by cooking different types of egg dishes, then pasta, indian, etc.
+Madalina started painting some of the things we might need for the game:
+![Vegetables Scan](/assets/squishy-fruits/scan.jpg)
 <br />
-My first goal was to cook food as diversified as possible and have it taste really well. I would look for recipes online, and the one best chef I followed was [Gordon Ramsay](https://www.gordonramsay.com/).
-<br />
-<br />
-So, Madalina was drawing a lot lately, and we always thought we should make a game togheter, and wanted to be something that would be fun and we both liked to do.
-
