@@ -2,7 +2,7 @@
 title: squishy fruits and a small prototype
 date: 2021-02-28 00:00:00 +01:00
 author: dragos
-tags: [blog, cooking, chefcapybara]
+tags: [blog, cooking, chefcapybara, squishy]
 description: some update on the cooking game. we now have squishy fruits and a small prototype
 ---
 
@@ -21,3 +21,11 @@ For this we are using [Unity](https://unity.com/). I imported the vegetables int
 
 <br />
 For the jelly look, I followed this amazing tutorial [How to Make Softbody Physics in Unity!](https://www.youtube.com/watch?v=3avaX00MhYc) by [Highfly](https://www.youtube.com/channel/UCFEbYRZrkvEfCAecEf0SPXg).
+<br />
+Then, I added some lights after following the [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA) tutorial on [2D Lights in Unity!].
+<br />
+And here is the current look:
+<video width="100%" controls="controls" muted autoplay loop>
+  <source src="/assets/mp4/squishy-fruits/jelly-with-light.mp4" type="video/mp4">
+</video>
+<br />
