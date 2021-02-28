@@ -1,6 +1,6 @@
 ---
 title: my love for cooking 🧑‍🍳
-date: 2021-02-27 00:00:00 +01:00
+date: 2021-02-28 00:00:00 +01:00
 author: dragos
 tags: [blog, cooking, chefcapybara]
 description: how we started working on our first game together
