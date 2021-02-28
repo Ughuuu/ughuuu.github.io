@@ -15,7 +15,7 @@ Pretty, right?
 <br />
 For this we are using [Unity](https://unity.com/). I imported the vegetables into a scene to start with, and it looked ok:
 
-<video width="480" height="320" controls="controls">
+<video width="100%" controls="controls" muted autoplay loop>
   <source src="/assets/mp4/squishy-fruits/jelly-look.mp4" type="video/mp4">
 </video>
 
