@@ -5,7 +5,7 @@ description: >- # site description
 lang: en-US # default lang
 timezone: UTC+1 # set your timezone
 image: assets/img/avatar_full.jpg # This image used for Open Graph more info https://ogp.me/
-mode: light # default theme "dark" | "light"
+mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
