@@ -6,4 +6,4 @@ excerpt: to be written
 comments: false
 ---
 
-to be written
+Follow updates on [twitter](https://twitter.com/appsinacup).
